@@ -184,4 +184,4 @@ Total books: 2
 
 ## Екранна снимка 
 
-<img width="1076" height="72" alt="image" src="https://github.com/user-attachments/assets/6c71609c-271b-44bf-9a11-7f968fa6e950" />
+<img width="1065" height="221" alt="image" src="https://github.com/user-attachments/assets/f5e96188-a619-45de-9360-ad61c0390f08" />
